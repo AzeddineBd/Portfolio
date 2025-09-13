@@ -44,7 +44,7 @@ export const education = [
 
 export const projects = [
   {
-    img: "/img/projects/project1.jpg",
+    img: "img/projects/project1.jpg",
     title: "Application Météo",
     tech: "API, Frontend",
     description:
@@ -52,7 +52,7 @@ export const projects = [
     url: "https://github.com/AzeddineBd/weather_App",
   },
   {
-    img: "/img/projects/project2.png",
+    img: "img/projects/project2.png",
     title: "Mini site e-commerce",
     tech: "Frontend",
     description:
@@ -60,7 +60,7 @@ export const projects = [
     url: "https://github.com/AzeddineBd/E-commerce",
   },
   {
-    img: "/img/projects/project3.png",
+    img: "img/projects/project3.png",
     title: "Portfolio personnel",
     tech: "Frontend With Gsap",
     description: "Site personnel hébergé sur GitHub Pages.",
