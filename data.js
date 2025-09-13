@@ -66,4 +66,12 @@ export const projects = [
     description: "Site personnel hébergé sur GitHub Pages.",
     url: "https://github.com/AzeddineBd/heroSection",
   },
+  {
+    img: "img/projects/project4.png",
+    title: "Blog API",
+    tech: "Backend (Node.js, Express, MongoDB)",
+    description:
+      "API REST pour la gestion des articles de blog (CRUD complet avec MongoDB).",
+    url: "https://github.com/AzeddineBd/blogAPI",
+  },
 ];
