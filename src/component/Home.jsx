@@ -25,10 +25,8 @@ const Home = () => {
               Web Developer
             </h3>
             <p className="max-w-[500px] text-sm text-gray-500">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum
-              voluptas atque ipsam reiciendis iure veniam eos eligendi
-              voluptatibus quia, quasi quo rerum dolor, quod impedit, beatae
-              necessitatibus deleniti? Maiores, ab?
+              MERN Stack Developer | React, Node.js, Express, MongoDB | Frontend
+              & Backend Web Development.
             </p>
           </div>
 
